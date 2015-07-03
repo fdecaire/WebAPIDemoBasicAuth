@@ -42,3 +42,26 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\WebAPI.dll.config
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\WebAPI.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\WebAPI.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Authentication.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Newtonsoft.Json.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Web.Cors.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Web.Http.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\UniversityApp.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\EntityFramework.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Authentication.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\UniversityApp.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Newtonsoft.Json.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Web.Http.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\bin\EntityFramework.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\WebAPI\obj\Debug\WebAPI.pdb

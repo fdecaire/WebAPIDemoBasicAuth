@@ -76,3 +76,23 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\UniversityApp.dll.config
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\UniversityApp.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\UniversityApp.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\EntityFramework.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Net.Http.Formatting.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Web.Http.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Web.Http.WebHost.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\EntityFramework.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Net.Http.Formatting.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Web.Http.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\bin\Debug\System.Web.Http.WebHost.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityApp\obj\Debug\UniversityApp.pdb

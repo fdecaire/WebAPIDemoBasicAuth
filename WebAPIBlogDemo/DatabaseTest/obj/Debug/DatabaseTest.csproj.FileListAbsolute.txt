@@ -46,3 +46,19 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.csprojResolveAssemblyReference.cache
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.exe
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\DatabaseTest.exe
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\DatabaseTest.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\EntityFramework.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\UniversityApp.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\UniversityApp.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\EntityFramework.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\bin\Debug\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.exe
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\DatabaseTest\obj\Debug\DatabaseTest.pdb

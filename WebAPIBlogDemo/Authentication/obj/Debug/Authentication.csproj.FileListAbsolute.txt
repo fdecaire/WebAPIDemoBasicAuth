@@ -4,3 +4,10 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\bin\Debug\log4net.xml
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\obj\Debug\Authentication.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\obj\Debug\Authentication.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\bin\Debug\Authentication.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\bin\Debug\Authentication.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\bin\Debug\log4net.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\bin\Debug\log4net.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\obj\Debug\Authentication.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Authentication\obj\Debug\Authentication.pdb

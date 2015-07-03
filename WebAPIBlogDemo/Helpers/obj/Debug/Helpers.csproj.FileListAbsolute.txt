@@ -28,3 +28,14 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.pdb

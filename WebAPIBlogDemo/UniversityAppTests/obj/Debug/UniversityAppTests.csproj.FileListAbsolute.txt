@@ -46,3 +46,19 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIB
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.csprojResolveAssemblyReference.cache
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.dll.config
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Helpers.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityApp.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityApp.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Helpers.pdb
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.csprojResolveAssemblyReference.cache
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.dll
+E:\GitHub\WebAPIDemoBasicAuth\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.pdb
